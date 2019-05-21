@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore", "Console\dotne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPages", "RazorPages\RazorPages.csproj", "{DBE81838-8B38-47B5-A4F7-56F1302A3A66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleConsole", "SimpleConsole\SimpleConsole.csproj", "{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{DBE81838-8B38-47B5-A4F7-56F1302A3A66}.Release|x64.Build.0 = Release|Any CPU
 		{DBE81838-8B38-47B5-A4F7-56F1302A3A66}.Release|x86.ActiveCfg = Release|Any CPU
 		{DBE81838-8B38-47B5-A4F7-56F1302A3A66}.Release|x86.Build.0 = Release|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Debug|x64.Build.0 = Debug|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Debug|x86.Build.0 = Debug|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Release|x64.ActiveCfg = Release|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Release|x64.Build.0 = Release|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Release|x86.ActiveCfg = Release|Any CPU
+		{1ACCDBAD-274E-4208-A3C5-F5645C76C4A5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
